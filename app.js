@@ -14,3 +14,4 @@ hideBtn.addEventListener("click", (e) => {
     hideBtn.textContent = "Hide";
   }
 });
+h1
